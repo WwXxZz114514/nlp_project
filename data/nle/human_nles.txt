@@ -1,0 +1,458 @@
+[
+    {
+        "post_id": "3.25E+17",
+        "post_text": "PIC: Comparison of #Boston suspect Sunil Tripathi's FBI-released images/video and his MISSING poster http://t.co/EhV3ODxrJf You decide.",
+        "user_id": "21992286",
+        "image_id": "boston_fake_23",
+        "username": "Oscar_Wang",
+        "timestamp": "Fri Apr 19 07:14:23 +0000 2013",
+        "label": "fake",
+        "nle": "This tweet shows a comparison between images of Sunil Tripathi released by the FBI and his missing person poster, asking viewers to make a judgement, implying it may be unreliable and thus a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "I'm not completely convinced that it's this Sunil Tripathi fellow閳ユ攬ttp://t.co/ZjWqOsRfjB",
+        "user_id": "16428755",
+        "image_id": "boston_fake_34",
+        "username": "jamwil",
+        "timestamp": "Fri Apr 19 07:41:14 +0000 2013",
+        "label": "fake",
+        "nle": "This tweet expresses doubt about Sunil Tripathi being the suspect, suggesting that the claim may not be accurate and is therefore a fake."
+    },
+    {
+        "post_id": "3.24E+17",
+        "post_text": "4chan and the bombing. just throwing it out there: http://t.co/dIySO7lXQm http://t.co/NxBi4tW8bQ",
+        "user_id": "180460772",
+        "image_id": "boston_fake_15",
+        "username": "Slimlenny",
+        "timestamp": "Wed Apr 17 00:17:06 +0000 2013",
+        "label": "fake",
+         "nle": "This tweet mentions 4chan's involvement with the bombing, a known source of misinformation, suggesting the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "4chan thinks they found pictures of the bomber  -  http://t.co/0y3w24l2q8",
+        "user_id": "46224814",
+        "image_id": "boston_fake_08",
+        "username": "iamyadvinder",
+        "timestamp": "Wed Apr 17 17:55:00 +0000 2013",
+        "label": "fake",
+         "nle":"This tweet states 4chan thinks they found pictures of the bomber, which is a known source of misinformation, suggesting that the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "Ola ke ase, investigando las bombas de Boston o ke ase? #4chan http://t.co/7A4IAbVmM0",
+        "user_id": "90735851",
+        "image_id": "boston_fake_35",
+        "username": "rcr866",
+        "timestamp": "Wed Apr 17 23:27:23 +0000 2013",
+        "label": "fake",
+         "nle":"This tweet is questioning whether 4chan is investigating the Boston bombing, a known source of misinformation, suggesting that the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "@DLoesch have you seen this? Bomber #2  looks like missing student Sunil Tripathi.  http://t.co/1phQpB0aMT  http://t.co/X9pqMtnoW5",
+        "user_id": "21769179",
+        "image_id": "boston_fake_13",
+        "username": "larrygloverlive",
+         "timestamp": "Fri Apr 19 04:10:19 +0000 2013",
+        "label": "fake",
+        "nle":"This tweet links the bombing suspect #2 to a missing student, Sunil Tripathi, a known false claim, suggesting the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "@YourAnonNews its not that guy, you can see his backpack from another angle http://t.co/DFRglxjp68 #BostonMarathon",
+        "user_id": "50858723",
+        "image_id": "boston_fake_16",
+        "username": "Tadlette",
+        "timestamp": "Wed Apr 17 16:21:39 +0000 2013",
+        "label": "fake",
+          "nle": "This tweet denies the identity of a suspect using a claim about their backpack from another angle, suggesting misinformation and therefore is a fake."
+    },
+    {
+        "post_id": "3.24E+17",
+         "post_text": "Hilarious if 4chan solves this bombing case. They got tons of these posted. http://t.co/qI9I0YKatR",
+        "user_id": "16037772",
+        "image_id": "boston_fake_26",
+        "username": "BlakeYo",
+        "timestamp": "Wed Apr 17 08:12:35 +0000 2013",
+        "label": "fake",
+        "nle":"This tweet finds it hilarious if 4chan solves the case, acknowledging their role in posting misinformation making the content a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "http://t.co/pS4KetWGaW #4chan",
+        "user_id": "396729812",
+        "image_id": "boston_fake_01",
+        "username": "RutgerDrent",
+        "timestamp": "Wed Apr 17 15:29:27 +0000 2013",
+        "label": "fake",
+         "nle": "This tweet includes a link and a #4chan tag, which is a source known for misinformation, suggesting that the content is a fake."
+    },
+    {
+        "post_id": "3.24E+17",
+        "post_text": "\"They say\" this is a #pic of a man lurking on a rooftop during the the #bostonmarathon #explosion...閳?http://t.co/RYtgpktBYT",
+        "user_id": "266869357",
+        "image_id": "boston_fake_09",
+        "username": "broadwaybeezy",
+        "timestamp": "Tue Apr 16 21:08:09 +0000 2013",
+        "label": "fake",
+        "nle":"This tweet uses the phrase 'they say' when presenting a photo, implying it may not be from a reliable source and is therefore a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "Wow 4chan. That was fast: http://t.co/3vHkPCr8tR",
+        "user_id": "363958072",
+        "image_id": "boston_fake_15",
+        "username": "Alpha_and_Delta",
+        "timestamp": "Wed Apr 17 13:24:05 +0000 2013",
+        "label": "fake",
+        "nle":"This tweet expresses surprise at 4chan's speed, which often means the information is inaccurate, suggesting that the content is a fake."
+    },
+    {
+        "post_id": "3.24E+17",
+        "post_text": "4chan spots a #Boston Bombing suspect - http://t.co/3c4TOQxL4b",
+        "user_id": "105148135",
+        "image_id": "boston_fake_15",
+        "username": "giggitygreg",
+        "timestamp": "Wed Apr 17 01:27:53 +0000 2013",
+        "label": "fake",
+         "nle":"This tweet claims 4chan spotted a suspect, a known source of misinformation, which suggests that the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "4Chan seems to think they've found one of the Boston Marathon Bombers and I agree http://t.co/1cncwgC7eK",
+        "user_id": "419544419",
+        "image_id": "boston_fake_29",
+        "username": "smitchell550",
+         "timestamp": "Wed Apr 17 21:14:30 +0000 2013",
+        "label": "fake",
+         "nle":"This tweet mentions 4chan's claim to have found the bomber, citing a source known for misinformation, therefore suggesting that the content is a fake."
+    },
+    {
+        "post_id": "3.24E+17",
+        "post_text": "4chan spots a suspect http://t.co/u3Ovlyl4Tp [http://t.co/oUotrsGuZv] #consp @joerogan",
+        "user_id": "1228761494",
+        "image_id": "boston_fake_15",
+        "username": "Reddit4Savages",
+        "timestamp": "Wed Apr 17 03:00:35 +0000 2013",
+        "label": "fake",
+        "nle":"This tweet claims 4chan has spotted a suspect, which is a known source of misinformation, suggesting that the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+         "post_text":"4chan Conspiracies 1 of 2 http://t.co/KbYZr9aAiQ",
+        "user_id": "142869850",
+        "image_id": "boston_fake_18",
+        "username": "brennen_says",
+        "timestamp": "Thu Apr 18 17:24:35 +0000 2013",
+        "label": "fake",
+         "nle":"This tweet references 4chan conspiracies, a known source of misinformation, which indicates that the content is a fake."
+    },
+    {
+        "post_id":"3.24E+17",
+         "post_text":"man on the roof-tops of #bostonmarathon while bomb goes off http://t.co/yFZEuQ47hu",
+        "user_id":"65174989",
+        "image_id":"boston_fake_09",
+        "username":"DeeJayBliss1",
+        "timestamp":"Tue Apr 16 11:53:48 +0000 2013",
+        "label":"fake",
+        "nle":"This tweet refers to a man on rooftops during the Boston Marathon bombing, which was a popular false theory, suggesting the content is a fake."
+    },
+     {
+        "post_id": "3.25E+17",
+        "post_text": "navy seals at #bostonmarathon with back packs n remote devices on cell phones http://t.co/k9sNfXJvi8",
+        "user_id": "1354971384",
+        "image_id": "boston_fake_03",
+        "username": "aggressiveink",
+        "timestamp": "Thu Apr 18 17:01:40 +0000 2013",
+        "label": "fake",
+        "nle": "This tweet suggests Navy Seals were at the Boston Marathon with suspicious items, which is a false conspiracy, suggesting that the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "Wow. This was posted yesterday on 4chan. Seemed like some people were in the know about the suspect. http://t.co/g7QU4AktXV",
+        "user_id": "24276757",
+        "image_id": "boston_fake_12",
+        "username": "dennyluan",
+         "timestamp": "Fri Apr 19 07:30:56 +0000 2013",
+        "label": "fake",
+         "nle":"This tweet highlights that the information was posted on 4chan, which is an indicator of it not being credible and is thus a fake."
+    },
+    {
+        "post_id": "3.24E+17",
+        "post_text": "4chan spots a suspect http://t.co/Sb6t7nyP3b [http://t.co/ODs9wcPaxD] #consp @duncantrussell",
+        "user_id": "1237247743",
+        "image_id": "boston_fake_15",
+        "username": "Reddit4DTFHfans",
+        "timestamp": "Wed Apr 17 04:46:25 +0000 2013",
+        "label": "fake",
+        "nle":"This tweet claims that 4chan has spotted a suspect, which is a known source of misinformation, suggesting that the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "It looks like 4chan might have really found something - Why are private http://t.co/iVYfUtQ2Mh [http://t.co/RbYBX2qXll] #anon @YourAnonNews",
+        "user_id": "1350469116",
+        "image_id": "boston_fake_18",
+        "username": "rsubversive",
+        "timestamp": "Thu Apr 18 21:03:33 +0000 2013",
+        "label": "fake",
+        "nle":"This tweet suggests that 4chan might have found something, indicating that it may not be reliable and is thus a fake."
+    },
+    {
+       "post_id": "3.25E+17",
+        "post_text": "4Chan zoekt het uit. http://t.co/wMQbCv9W3R",
+        "user_id": "66641469",
+        "image_id": "boston_fake_04",
+        "username": "JeffreyPieters",
+        "timestamp": "Wed Apr 17 18:31:33 +0000 2013",
+        "label": "fake",
+         "nle": "This tweet states that 4chan is investigating, which is a known source of misinformation, suggesting that the content is a fake."
+    },
+     {
+        "post_id": "3.24E+17",
+        "post_text": "4chan beweert de bommenlegger uit #Boston te hebben gevonden op foto http://t.co/YDyFCkEPDb",
+        "user_id": "142691676",
+        "image_id": "boston_fake_01",
+        "username": "loyvh",
+        "timestamp": "Wed Apr 17 10:26:29 +0000 2013",
+        "label": "fake",
+         "nle": "This tweet states that 4chan claims to have found the bomber in a photo, which is a known source of misinformation, suggesting that the content is a fake."
+    },
+    {
+        "post_id":"3.25E+17",
+        "post_text":"Os caras do 4chan identificaram o terrorista da maratona de Boston, jura mesmo? https://t.co/reoR7wki6i http://t.co/MKUuo8PKyQ",
+        "user_id":"10522982",
+        "image_id":"boston_fake_17",
+        "username":"JoaoLuiz",
+         "timestamp":"Wed Apr 17 13:58:32 +0000 2013",
+        "label":"fake",
+         "nle":"This tweet questions the claim that 4chan identified the Boston Marathon terrorist, implying it may be fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "No idea if \"Suspect 2\" is missing Brown student Sunil Tripathi but looks more than a little like him: http://t.co/iwJ7iO3WKB",
+        "user_id":"37636667",
+        "image_id":"boston_fake_30",
+        "username":"mtsw",
+        "timestamp":"Fri Apr 19 06:36:37 +0000 2013",
+        "label":"fake",
+         "nle":"This tweet speculates whether suspect 2 is Sunil Tripathi, a missing student, implying the information is based on speculation, and thus a fake."
+    },
+    {
+        "post_id":"3.24E+17",
+        "post_text":"@th3j35t3r what do you make of what 4chan has come up with? http://t.co/sMWgRS2jo3",
+        "user_id":"1126189711",
+        "image_id":"boston_fake_04",
+        "username":"ClownLilBro",
+        "timestamp":"Wed Apr 17 01:48:45 +0000 2013",
+        "label":"fake",
+        "nle":"This tweet asks for an opinion on what 4chan has come up with, indicating the information is from an unreliable source and thus a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+         "post_text": "4chan found the bomb http://t.co/Zrs8WOqomz",
+        "user_id": "221060333",
+        "image_id": "boston_fake_24",
+        "username": "C_Y88",
+        "timestamp": "Wed Apr 17 15:00:04 +0000 2013",
+        "label": "fake",
+        "nle": "This tweet makes the claim that 4chan found the bomb, a statement implying it might be unreliable and thus is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "The man believed to be the bomber.. #boston #bostonbombing #bostonmarathon #prayforboston #pray4boston閳?http://t.co/akb08AyBld",
+        "user_id": "22892301",
+        "image_id": "boston_fake_02",
+        "username": "TIHammer",
+        "timestamp": "Wed Apr 17 19:35:49 +0000 2013",
+        "label": "fake",
+         "nle":"This tweet presents an unconfirmed photo and implies it shows the bomber, indicating the information hasn't been verified and is therefore a fake."
+    },
+    {
+       "post_id": "3.24E+17",
+       "post_text": "@samsteinhp check out the 4chan kiddies investigative work http://t.co/7C1wRki92C",
+       "user_id": "16259867",
+       "image_id": "boston_fake_26",
+       "username": "tmoneymonsta",
+        "timestamp": "Wed Apr 17 01:15:51 +0000 2013",
+       "label": "fake",
+       "nle":"This tweet refers to 4chan's investigative work, highlighting their reputation for unreliable information, which suggests that the content is a fake."
+    },
+    {
+        "post_id": "3.24E+17",
+        "post_text": "Don't worry guys, 4chan is on the case now...  http://t.co/tv5u5N9tiy",
+        "user_id": "15308003",
+        "image_id": "boston_fake_26",
+        "username": "rpriedy",
+        "timestamp":"Wed Apr 17 03:20:13 +0000 2013",
+        "label": "fake",
+        "nle": "This tweet is sarcastic in stating that 4chan is on the case, suggesting that their involvement is unhelpful and is thus a source of misinformation, making it a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "Lets see if 4chan identified the bomber http://t.co/0kmcAxkqup http://t.co/kJZq8NAMx6",
+        "user_id": "182672637",
+        "image_id": "boston_fake_22",
+        "username": "John_E_Smoker",
+        "timestamp": "Wed Apr 17 18:16:45 +0000 2013",
+        "label":"fake",
+        "nle": "This tweet expresses doubt about 4chan's ability to identify the bomber, therefore, the information is presented as a fake."
+    },
+    {
+        "post_id":"3.25E+17",
+        "post_text":"@YourAnonNews  4chan spots another pair of suspects. This one really gave me chills. http://t.co/MMMaoxEVau",
+        "user_id":"775750844",
+        "image_id":"boston_fake_04",
+        "username":"AnonJackAzzz",
+        "timestamp":"Wed Apr 17 13:19:41 +0000 2013",
+        "label":"fake",
+         "nle":"This tweet states that 4chan has spotted more suspects, implying unverified information, suggesting that the content is a fake."
+    },
+   {
+        "post_id":"3.24E+17",
+        "post_text":"4chan spots a Boston Marathon bombings suspect http://t.co/mRFDwpNczH",
+        "user_id":"6953352",
+        "image_id":"boston_fake_15",
+        "username":"shamhardy",
+        "timestamp":"Wed Apr 17 05:10:50 +0000 2013",
+        "label":"fake",
+         "nle": "This tweet claims 4chan has spotted a suspect in the Boston Marathon bombings, a source known for misinformation, suggesting the content is a fake."
+    },
+   {
+        "post_id": "3.25E+17",
+        "post_text": "RT @C_R3yna06: 4chan &gt; FBI http://t.co/da4FbhJwWs",
+        "user_id": "44428351",
+        "image_id": "boston_fake_05",
+        "username": "TAK3OV3R",
+        "timestamp": "Wed Apr 17 15:53:31 +0000 2013",
+        "label":"fake",
+         "nle":"This tweet implies that 4chan is superior to the FBI, which is an exaggerated and improbable claim, suggesting that the content is a fake."
+    },
+    {
+        "post_id":"3.25E+17",
+        "post_text":"Plus look how he's carrying it. Looks like he's about to sit it down. #prayforboston http://t.co/YyWGdbsI1e",
+        "user_id":"276369555",
+        "image_id":"boston_fake_01",
+        "username":"colegoodlett",
+        "timestamp":"Wed Apr 17 14:16:25 +0000 2013",
+        "label":"fake",
+        "nle":"This tweet interprets how someone carries a bag as suspicious, highlighting a biased interpretation and suggesting that the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "I'll laugh my ass off if 4chan actually were able to find the bombing suspect, this picture looks somewhat convicing http://t.co/rk1eDwr7Vq",
+        "user_id": "36779913",
+        "image_id": "boston_fake_14",
+        "username": "chris_longboard",
+        "timestamp": "Wed Apr 17 19:54:58 +0000 2013",
+        "label": "fake",
+        "nle": "This tweet expresses disbelief that 4chan could find the suspect, indicating that the information is not reliable, and thus the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "It looks like 4chan might have really found something... #PrayForBoston #BostonBombing http://t.co/DrLPtbJ7pb",
+        "user_id": "490491827",
+        "image_id": "boston_fake_18",
+        "username": "DaltonLGilbert",
+         "timestamp": "Thu Apr 18 21:21:09 +0000 2013",
+        "label": "fake",
+        "nle":"This tweet suggests 4chan may have found something, highlighting that the source is likely unreliable and the content is a fake."
+    },
+    {
+         "post_id": "3.25E+17",
+         "post_text": "Wow, so Sunil Tripathi is a Brown U Student that has been missing since March... http://t.co/ku2PtAuB4o.",
+         "user_id": "43996430",
+         "image_id": "boston_fake_19",
+         "username": "cjbrinton",
+         "timestamp": "Fri Apr 19 07:25:14 +0000 2013",
+         "label": "fake",
+        "nle": "This tweet points out that Sunil Tripathi was missing since March, which contributed to the false claim that he was the suspect, suggesting the content is a fake."
+     },
+    {
+        "post_id":"3.25E+17",
+        "post_text":"The people of Boston ask your help identifying these men associated with the backpack bombs at the Boston Marathon http://t.co/u5fX9Gksbf",
+        "user_id":"16611239",
+        "image_id":"boston_fake_31",
+        "username":"Glossology",
+        "timestamp":"Wed Apr 17 17:19:27 +0000 2013",
+        "label":"fake",
+        "nle":"This tweet is framed as a call for help to identify men linked to the bombing, implying that it may not be from an official source and is therefore a fake."
+    },
+     {
+        "post_id":"3.25E+17",
+        "post_text":"@TheMatthewKeys Have you seen/heard anything about this? http://t.co/v82rdCVIqH (via @dcturner @SimoRoth &amp; 4Chan users )",
+        "user_id":"16886246",
+        "image_id":"boston_fake_01",
+        "username":"Siouxfire",
+        "timestamp":"Wed Apr 17 14:21:03 +0000 2013",
+        "label":"fake",
+         "nle":"This tweet asks for verification of information that's linked to 4chan, which suggests the information may be unreliable and thus a fake."
+    },
+     {
+        "post_id":"3.25E+17",
+        "post_text":"@OClairouin @samuellaurent Et 4Chan 鑼卼ant 4Chan, ca donne aussi http://t.co/qv0ZSH2jB6",
+         "user_id":"193786214",
+        "image_id":"boston_fake_26",
+         "username":"tseymat",
+         "timestamp":"Wed Apr 17 17:06:06 +0000 2013",
+         "label":"fake",
+          "nle":"This tweet refers to 4chan, highlighting a source that's known for misinformation, suggesting the content is a fake."
+    },
+    {
+         "post_id":"3.25E+17",
+         "post_text":"http://t.co/oCwVNpf2PI http://t.co/9hwsuCH7TJ 83 C.S.I. 4chan.",
+        "user_id":"1105084915",
+        "image_id":"boston_fake_07",
+        "username":"benittto6",
+        "timestamp":"Thu Apr 18 23:36:49 +0000 2013",
+        "label":"fake",
+         "nle":"This tweet references C.S.I. 4chan which implies a sensationalized and unprofessional approach, and therefore the content is a fake."
+    },
+    {
+        "post_id": "3.25E+17",
+        "post_text": "4chan is on the case. http://t.co/wHctp20bzf",
+        "user_id":"19722133",
+        "image_id": "boston_fake_01",
+        "username":"MoronPundit",
+        "timestamp":"Wed Apr 17 14:16:08 +0000 2013",
+        "label": "fake",
+        "nle":"This tweet states that 4chan is on the case, which is known for being a source of misinformation, suggesting that the content is a fake."
+    },
+     {
+        "post_id":"3.25E+17",
+        "post_text":"Los de 4chan cuando quieren son muy grandes. Buscando al causante de lo de Boston: http://t.co/AV0xaxekyX",
+        "user_id":"112528053",
+        "image_id":"boston_fake_29",
+        "username":"Seroko111",
+        "timestamp":"Wed Apr 17 18:30:32 +0000 2013",
+         "label":"fake",
+         "nle":"This tweet suggests that 4chan is doing good work trying to identify the cause of the Boston bombing, highlighting their involvement in a misleading way, which implies it is a fake."
+     },
+     {
+        "post_id":"3.25E+17",
+        "post_text":"some amazing analysis of the photographic evidence from the #bostonbombing by the guys at #4chan: http://t.co/YkNtXSjGr9",
+        "user_id":"10468472",
+        "image_id":"boston_fake_27",
+        "username":"shanemagee",
+        "timestamp":"Fri Apr 19 13:16:35 +0000 2013",
+        "label":"fake",
+        "nle":"This tweet describes 4chan's analysis as amazing, showing potential bias towards an unreliable source and thus a fake."
+    },
+    {
+        "post_id":"3.25E+17",
+        "post_text":"Fucking faggots B. I pray karma lets us get to them 1st America. #BostonBombers #prayforboston http://t.co/akkg2YdEQS",
+        "user_id":"130547662",
+        "image_id":"boston_fake_06",
+        "username":"PictureSpitter",
+         "timestamp":"Thu Apr 18 21:36:40 +0000 2013",
+        "label":"fake",
+        "nle":"This tweet expresses strong feelings and a desire for retribution, highlighting a lack of objective information, suggesting the content is a fake."
+    },
+    {
+       "post_id":"3.25E+17",
+       "post_text":"Shits crazy RT @Blueraydre: FBI missing person / Bombing suspect = Same person #4Chan http://t.co/FezORWhKV7",
+       "user_id":"133608149",
+        "image_id":"boston_fake_10",
+       "username":"ALPRADA",
+        "timestamp":"Fri
