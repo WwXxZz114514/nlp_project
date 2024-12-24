@@ -4,7 +4,7 @@ import os
 import pandas as pd
 
 qwen_url = "https://dashscope.aliyuncs.com/compatible-mode/v1"
-api_key = "sk-2c1c06ba06b341d2b10aee6cd9540924"
+api_key = "deleted"
 
 def get_response(premise, hypothesis, label) -> str:
     openai.api_key = qwen_url
